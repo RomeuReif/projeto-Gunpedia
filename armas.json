@@ -1,0 +1,50 @@
+[
+    {
+        "nome": "Pistola Glock 17",
+        "imagem": "assets/imgs/armas/Pistola-Glock-G17.jpeg",
+        "calibre": "9mm",
+        "capacidade": "17+1 Tiros",
+        "origem": "Austria",
+        "funcionamento": "Semiautomático",
+        "comprimento": "202mm",
+        "altura": "139mm",
+        "largura": "34mm",
+        "peso": "945g"
+    },
+    {
+        "nome": "Rifle AR-15",
+        "imagem": "assets/imgs/armas/glock-17.png",
+        "calibre": ".223 Remington",
+        "capacidade": 30,
+        "origem": "Estados Unidos",
+        "funcionamento": "Semiautomático",
+        "comprimento": "202mm",
+        "altura": "139mm",
+        "largura": "34mm",
+        "peso": "945g"
+    },
+    {
+        "nome": "Rifle AR-15",
+        "imagem": "assets/imgs/armas/glock-17.png",
+        "calibre": ".223 Remington",
+        "capacidade": 30,
+        "origem": "Estados Unidos",
+        "funcionamento": "Semiautomático",
+        "comprimento": "202mm",
+        "altura": "139mm",
+        "largura": "34mm",
+        "peso": "945g"
+    },
+    {
+        "nome": "Rifle AR-15",
+        "imagem": "assets/imgs/armas/glock-17.png",
+        "calibre": ".223 Remington",
+        "capacidade": 30,
+        "origem": "Estados Unidos",
+        "funcionamento": "Semiautomático",
+        "comprimento": "202mm",
+        "altura": "139mm",
+        "largura": "34mm",
+        "peso": "945g"
+    }
+]
