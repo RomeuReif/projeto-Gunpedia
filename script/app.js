@@ -40,6 +40,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     const infoElement = document.createElement('div');
                     infoElement.classList.add('info-overlay');
                     infoElement.innerHTML = `
+                        <img src="${arma.imagem}">
                         <h2>${arma.nome}</h2>
                         <p>Calibre: ${arma.calibre}</p>
                         <p>Funcionamento: ${arma.funcionamento}</p>
