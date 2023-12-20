@@ -133,3 +133,22 @@ main {
     font-size: 1.2em;
     margin-bottom: 8px;
 }
+
+/* responsive */
+@media (max-width: 872px){
+    .img-destaque {
+        display: none;
+    }
+}
+
+@media (max-width:530px) {
+    .titulo-logo {
+        text-align: center;
+        font-size: 3em;
+    }
+
+    .sub-titulo {
+        text-align: center;
+        font-size: 1.8em;
+    }
+}
